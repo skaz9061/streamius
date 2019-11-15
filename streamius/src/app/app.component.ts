@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'streamius';
+  subtitle = 'a single search spanning several streaming services';
 }
